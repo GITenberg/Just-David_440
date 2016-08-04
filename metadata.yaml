@@ -1,0 +1,46 @@
+_repo: Just-David_440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Porter, Eleanor H. (Eleanor Hodgman)
+    alias: Porter, Eleanor Hodgman
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '200'
+    url: http://www.gutenberg.org/2009/agents/200
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_H._Porter
+description: "Just David is a 1916 children's novel by Eleanor H. Porter. It was among\
+  \ the top six bestsellers in cities across the United States in 1916, and in July\
+  \ 1916 it was the second bestselling novel.\nOriginally published by Houghton Mifflin,\
+  \ it tells the story of a young boy, David, who must learn to adapt to living with\
+  \ others after the death of his recluse father; along the way, the villagers and\
+  \ his adoptive parents adapt as much or more to him. Though criticized by reviewers\
+  \ as \"mush\" and \"too perfectly lovely,\" the novel was very popular in the early\
+  \ half of the twentieth century in middle and high schools, and has recently seen\
+  \ a number of reprints. The novel was transcribed in Braille in 1922, and translated\
+  \ in Chinese (1959) and Russian (2005).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '440'
+  wikidata: Q6315940
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adoption -- Juvenile fiction'
+- !lcsh 'Identity (Philosophical concept) -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Violinists -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mountain life -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- Juvenile fiction'
+- GITenberg
+title: Just David
+url: http://www.gutenberg.org/ebooks/440
+wikipedia:
+- https://en.wikipedia.org/wiki/Just_David
