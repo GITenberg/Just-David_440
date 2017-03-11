@@ -1,5 +1,8 @@
 _repo: Just-David_440
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Porter, Eleanor H. (Eleanor Hodgman)
@@ -19,6 +22,8 @@ description: "Just David is a 1916 children's novel by Eleanor H. Porter. It was
   \ half of the twentieth century in middle and high schools, and has recently seen\
   \ a number of reprints. The novel was transcribed in Braille in 1922, and translated\
   \ in Chinese (1959) and Russian (2005).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/440#Just-David
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
